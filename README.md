@@ -11,7 +11,7 @@ HARD SKILLS:
 5) Technical English (B1-B2);
 6) Linear algebra (good), mathematical analysis (good), statistics (good), probability theory (normal);
 
-I have no experience in IT due to my studies. However, I have taken part in some programming contests on codeforces and all cups and also have trained on Kaggle training datasets. The internship or work as a junior developeris are a great chance for me to gain experience on real data.
+I have no experience in IT due to my studies. However, I have taken part in some programming contests on codeforces and all cups and also have trained on Kaggle training datasets. The internship or work as a junior developer are a great chance for me to gain experience on real data.
 
 CONTACT:
 1) facebook: fedor.prazdnikov;
