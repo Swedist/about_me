@@ -18,4 +18,9 @@ CONTACT:
 2) gmail: fyodorprazdnikov17@gmail.com;
 3) telegram: Swedist;
 
-Also i attach some certificates that can confirm my knowledge.
+Also I attach some certificates that can confirm my knowledge and my university grades.
+1) Linear algebra: https://stepik.org/cert/1173108;
+2) Algorithms: https://stepik.org/cert/1087673;
+3) Statistics 1: https://stepik.org/cert/917001;
+4) Statistics 2: https://stepik.org/cert/977277;
+5) Data science: https://stepik.org/cert/967310;
