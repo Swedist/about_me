@@ -1,7 +1,7 @@
 # RESUME
 Here is some info about me and my education :)
 
-This summer I have graduated from St. Petersburg State University of Economics (SPbSUE) with a degree in production management. I have been studing ds field since September 2020. Now I work as ds. In my work I am engaged in the following works:
+This summer I have graduated from St. Petersburg State University of Economics (SPbSUE) with a degree in production management. I have been studying ds field since September 2020. Now I work as ds. In my work I am engaged in the following works:
 1) write an effective, readable code;
 2) realize ETL pipeline through orchestration platforms;
 3) EDA;
