@@ -20,7 +20,7 @@ Also while working ds I have taken part in some programming contests on codeforc
 7) Technical English (B1-B2);
 8) Math background;
 
-CONTACT:
+# CONTACT:
 1) facebook: fedor.prazdnikov;
 2) gmail: fyodorprazdnikov17@gmail.com;
 3) telegram: Swedist;
