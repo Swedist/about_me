@@ -19,6 +19,7 @@ Also while working ds I have taken part in some programming contests on codeforc
 6) Linear Programming (LP, MLP, ILP);
 7) Technical English (B1-B2);
 8) Math background;
+9) ETL by modern airflow framework prefect.
 
 # CONTACT:
 1) facebook: fedor.prazdnikov;
