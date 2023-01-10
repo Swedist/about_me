@@ -11,7 +11,7 @@ This summer I have graduated from St. Petersburg State University of Economics (
 Also while working ds I have taken part in some programming contests on codeforces and all cups that were focused on text analysis, scoring. In parallel with my studies, sometimes I work as a climbing coach. I really like rock&ice climbing, alpine skiing and team computer games like cs or dota :)
 
 # SOME SKILLS:
-1) Python, SQL, NoSQL (MongoDB), Git, Docker;
+1) Python, SQL, NoSQL (MongoDB), Git (github, bitbucket), Docker;
 2) Familiar with most libraries for DS;
 3) Familiar with most basic machine learning algorithms;
 4) Familiar with DL frameworks like TensorFlow;
