@@ -11,15 +11,16 @@ This summer I have graduated from St. Petersburg State University of Economics (
 Also while working ds I have taken part in some programming contests on codeforces and all cups that were focused on text analysis, scoring. In parallel with my studies, sometimes I work as a climbing coach. I really like rock&ice climbing, alpine skiing and team computer games like cs or dota :)
 
 # SOME SKILLS:
-1) Python, SQL, NoSQL, Git, Docker;
+1) Python, SQL, NoSQL (MongoDB), Git, Docker;
 2) Familiar with most libraries for DS;
 3) Familiar with most basic machine learning algorithms;
 4) Familiar with DL frameworks like TensorFlow;
-5) NLP, RecSys;
-6) Linear Programming (LP, MLP, ILP);
-7) Technical English (B1-B2);
-8) Math background;
-9) ETL by modern airflow framework prefect.
+5) RecSys;
+6) NLP (natasha, pymystem, gensim, BERT, fasttext, Word2Vec, Hugging Face)
+7) Linear Programming (LP, MLP, ILP);
+8) Technical English (B1-B2);
+9) Math background;
+10) ETL by modern airflow framework prefect.
 
 # CONTACT:
 1) facebook: fedor.prazdnikov;
