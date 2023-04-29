@@ -6,8 +6,8 @@ I have graduated from St. Petersburg State University of Economics (SPbSUE) with
 2) realize ETL pipeline through orchestration platforms;
 3) EDA;
 4) Work with BigData;
-4) Solving classification, clustering and regression problems;
-5) A/B testing;
+5) Solving classification, clustering and regression problems;
+6) A/B testing;
 
 Also while working ds I have taken part in some programming contests on codeforces and all cups that were focused on text analysis, scoring. In parallel with my studies, sometimes I work as a climbing coach. I really like rock&ice climbing, alpine skiing and team computer games like cs :)
 
