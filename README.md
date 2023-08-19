@@ -11,7 +11,7 @@ I have graduated from St. Petersburg State University of Economics (SPbSUE) with
 
 Also while working data scientist I have taken part in some programming contests on codeforces and all cups that were focused on text analysis, scoring. In parallel with my studies, sometimes I work as a climbing coach. I really like rock&ice climbing, alpine skiing and team computer games like cs :)
 
-# SOME SKILLS:
+## SOME SKILLS:
 1) Python, SPSS, R;
 2) Hadoop, Spark, SQL, NoSQL, Docker;
 3) Airflow, Luigi, Prefect;
@@ -20,7 +20,7 @@ Also while working data scientist I have taken part in some programming contests
 6) Linear Programming (LP, MLP, ILP);
 7) Math and statistics background;
 
-# CONTACT:
+## CONTACT:
 1) facebook: fedor.prazdnikov;
 2) gmail: fyodorprazdnikov17@gmail.com;
 3) telegram: Swedist (preferably);
