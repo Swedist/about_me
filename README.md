@@ -18,7 +18,8 @@ Also while working data scientist I have taken part in some programming contests
 4) Familiar with most libraries for DS;
 5) Familiar with most basic machine learning algorithms;
 6) Linear Programming (LP, MLP, ILP);
-7) Math and statistics background;
+7) Linux;
+8) Math and statistics background;
 
 ## CONTACT:
 1) facebook: fedor.prazdnikov;
