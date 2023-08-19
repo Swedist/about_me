@@ -14,7 +14,7 @@ Also while working data scientist I have taken part in some programming contests
 ## SOME SKILLS:
 1) Python, SPSS, R;
 2) Hadoop, Spark, SQL, NoSQL, Docker;
-3) Airflow, Luigi, Prefect;
+3) Airflow, Luigi, Prefect, Jenkins;
 4) Familiar with most libraries for DS;
 5) Familiar with most basic machine learning algorithms;
 6) Linear Programming (LP, MLP, ILP);
