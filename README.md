@@ -20,6 +20,7 @@ Also while working data scientist I have taken part in some programming contests
 6) Linear Programming (LP, MLP, ILP);
 7) Linux;
 8) Math and statistics background;
+9) Git (github, bitbucket, gitlab);
 
 ## CONTACT:
 1) facebook: fedor.prazdnikov;
