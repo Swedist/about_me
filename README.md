@@ -1,5 +1,5 @@
 # RESUME
-Here is some info about me and my education :)
+Here is some info about me :)
 
 I have graduated from St. Petersburg State University of Economics (SPbSUE) with a degree in production management. I have been studying date science field since September 2020. Now I work as data scientist. In my work I am engaged in the following works:
 1) write an effective, readable code;
